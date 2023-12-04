@@ -1,4 +1,5 @@
-A simple GUI application using the JavaFX library in Kotlin.  
+A simple GUI application using the JavaFX library in Kotlin. 
+--- 
 This application will display a window with a button, and when you click the button, a greeting message will be displayed.  
 ---
 To run this application, you must have Kotlin and JavaFX installed.  
